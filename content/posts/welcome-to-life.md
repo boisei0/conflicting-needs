@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Life on the Intersection of Conflicting Needs"
 date: 2021-02-23T08:07:58Z
-draft: true
+draft: false
 ---
 
 Welcome to life on the intersection of conflicting needs. Where treatment for one thing is a contra indication of the next. Where therapy for one mental illness is a severe trigger for another. 
