@@ -6,7 +6,7 @@ draft: false
 
 Technically this should count as a kind of a linktree too?
 
-* [Lena's blog (conflicting needs)](https://boisei0.github.io/conflicting-needs/)
+* [Lena&rsquo;s blog (conflicting needs)](https://boisei0.github.io/conflicting-needs/)
 * [Instagram](https://instagram.com/afelix0)
 * I'm forgetting something I wanted to list here...
 
