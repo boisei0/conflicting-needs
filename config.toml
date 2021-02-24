@@ -2,3 +2,21 @@ baseURL = "https://boisei0.github.io/conflicting-needs/"
 languageCode = "en-us"
 title = "The Intersection of Conflicting Needs"
 theme = "hugo-vitae"
+
+# Menu
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About me"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Linktree"
+url = "/linktree"
+weight = 3
+
+
