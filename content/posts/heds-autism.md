@@ -28,9 +28,9 @@ Putting it all together, things make sense. I don't see the hormonal involvement
 
 ---
 
-![Infographic on hEDS and autism, and the link with hormones. Page 1/3, full transcript below](https://github.com/boisei0/conflicting-needs/blob/8e88eb78ce6ca241abad832684f22fca5de3385e/content/posts/eds-autism-1.png)
-![Infographic on hEDS and autism, and the link with hormones. Page 2/3, full transcript below](https://github.com/boisei0/conflicting-needs/blob/8e88eb78ce6ca241abad832684f22fca5de3385e/content/posts/eds-autism-2.png)
-![Infographic on hEDS and autism, and the link with hormones. Page 3/3, full transcript below](https://github.com/boisei0/conflicting-needs/blob/8e88eb78ce6ca241abad832684f22fca5de3385e/content/posts/eds-autism-3.png)
+![Infographic on hEDS and autism, and the link with hormones. Page 1/3, full transcript below](https://raw.githubusercontent.com/boisei0/conflicting-needs/8e88eb78ce6ca241abad832684f22fca5de3385e/content/posts/eds-autism-1.png)
+![Infographic on hEDS and autism, and the link with hormones. Page 2/3, full transcript below](https://raw.githubusercontent.com/boisei0/conflicting-needs/8e88eb78ce6ca241abad832684f22fca5de3385e/content/posts/eds-autism-2.png)
+![Infographic on hEDS and autism, and the link with hormones. Page 3/3, full transcript below](https://raw.githubusercontent.com//boisei0/conflicting-needs/8e88eb78ce6ca241abad832684f22fca5de3385e/content/posts/eds-autism-3.png)
 
 ---
 
