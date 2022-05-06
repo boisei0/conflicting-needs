@@ -1,5 +1,6 @@
 ---
 title: "hEDS and Autism, on the impact of hormones"
+author: "Lena Derksen"
 date: 2022-05-06T17:45:00Z
 draft: false
 ---
@@ -12,7 +13,7 @@ After I came out as transgender in 2015, I started a feminising hormone treatmen
 
 Two years ago I had to stop my T-blockers, and we've since been looking into other options. The first option is a diuretic, which means I can't have it with POTS. The second option is a GnRH agonist. A couple months ago I've decided to postpone all T-blocker options until my weight is at a safe and stable level. As such, my T levels have been increasing again for the last few years. If I miss a dosage of E, these levels slip down. I don't have an actual cycle, but I can feel similar effects hormonal. If my joints suddenly start slipping out more, I first check environmental factors. And then check to see if I may have missed taking my medication. 
 
-If you've been in hEDS patient communities for a while, you'll probably have come across discussions regarding the laxity of joints around parts of the menstrual cycle. And as you probably know, hEDS is diagnosed a lot in people assigned female at birth (afab). In my personal opinion, overdiagnosed in afab people. The same way as autism is overdiagnosed in amab people. Overdiagnosed, because a lot of afab people with autism slip under the radar and are missed. Overdiagnosed, because amamb people experiencing joint hypermobility or linked connective tissue problems, often are missed until an afab family member is diagnosed.
+If you've been in hEDS patient communities for a while, you'll probably have come across discussions regarding the laxity of joints around parts of the menstrual cycle. And as you probably know, hEDS is diagnosed a lot in people assigned female at birth (afab). In my personal opinion, overdiagnosed in afab people. The same way as autism is overdiagnosed in amab people. Overdiagnosed, because a lot of afab people with autism slip under the radar and are missed. Overdiagnosed, because amab people experiencing joint hypermobility or linked connective tissue problems, often are missed until an afab family member is diagnosed.
 
 There's a few things I strongly noticed when I was starting hormone treatment back in 2016. I was supposed to get softer skin, but it never happened. Yet doctors would fawn over me at the appointments after I started on E, because my skin was so soft and they had hardly ever seen such amazing results so quickly. I tried to correct them that nothing had changed, but they would't believe me. I had several doctors ask me if they would be allowed to pet or stroke my skin, to feel if it was as soft as it looked, including my own GP at the time who had known me for over a decade. 
 
